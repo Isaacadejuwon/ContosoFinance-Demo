@@ -5,7 +5,7 @@
 
 
 
-$subscriptionId = "4ae8209e-3244-4e03-bea5-1967328bb3a9" #insert your subscription ID
+$subscriptionId = "ba1c2725-a027-4fd2-af01-b04504979485" #insert your subscription ID
 $resourceGroupName = "ContosoFinance-Demo-rg"  #provide resource group name
 $resourceGroupLocation = "WestEurope"  #location
 
